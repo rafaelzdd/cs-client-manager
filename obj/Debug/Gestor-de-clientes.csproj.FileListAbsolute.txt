@@ -1,0 +1,7 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\bin\Debug\Gestor-de-clientes.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\bin\Debug\Gestor-de-clientes.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\bin\Debug\Gestor-de-clientes.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\obj\Debug\Gestor-de-clientes.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\obj\Debug\Gestor-de-clientes.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\obj\Debug\Gestor-de-clientes.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Cursos\Exercicios\C# para iniciantes\Projeto 2 - Gestor de clientes\Gestor-de-clientes\Gestor-de-clientes\obj\Debug\Gestor-de-clientes.pdb
